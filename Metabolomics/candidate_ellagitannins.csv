@@ -1,0 +1,96 @@
+﻿Feature,mz,RT,Keep_hypothesis,Notes,Combined_Name
+Feature_3288,153.0185697,0.9773403,0,,Feature_3288_CMMC_Ellagic Acid_FBMN_4-methoxy-3-[(4-methoxyphenoxy)methyl]benzaldehyde CollisionEnergy:102040_SIRIUS_C7H4O4
+Feature_13450,259.0257175,3.5561466,0,,Feature_13450_CMMC_Caffeic acid_FBMN_Thelephoric acid_SIRIUS_C13H6O6
+Feature_9894,259.026263,2.8224454,0,,Feature_9894_CMMC_Caffeic acid_FBMN_Gaultherin_SIRIUS_C13H6O6
+Feature_6209,259.0266873,1.8866088,0,,"Feature_6209_CMMC_nalidixic acid_FBMN_""(2-Oxo-2,3-dihydro-1H-indol-3-yl)acetic acid CollisionEnergy:205060""_SIRIUS_C13H6O6"
+Feature_8330,263.0192576,3.0568683,0,,Feature_8330_SIRIUS_C12H6O7
+Feature_7827,265.034965,2.8349812,0,,Feature_7827_CMMC_Ellagic Acid_FBMN_175026-96-7_SIRIUS_C12H8O7
+Feature_10294,275.0191837,3.14662,0,,Feature_10294_FBMN_4-HYDROXYPHENYL ACETIC ACID_SIRIUS_C13H6O7
+Feature_2558,277.0327856,0.7870033,0,,Feature_2558_CMMC_D-(-)-quinic acid_FBMN_Valine_Dihydroxyacetone (known isomers: 0; isobaric peaks in run: 1)_SIRIUS_C13H8O7
+Feature_7602,277.0347309,3.1645136,0,,Feature_7602_CMMC_D-(-)-quinic acid_FBMN_2-(hydroxymethyl)-5-methoxy-4H-pyran-4-one_SIRIUS_C13H8O7
+Feature_6494,277.0347426,1.9570744,0,,Feature_6494_CMMC_D-(-)-quinic acid_FBMN_Alanine_Dihydroxyacetone (known isomers: 0; isobaric peaks in run: 2)_SIRIUS_C13H8O7
+Feature_10908,277.0347839,3.703896,0,,Feature_10908_CMMC_D-(-)-quinic acid_FBMN_Alanine_Dihydroxyacetone (known isomers: 0; isobaric peaks in run: 2)_SIRIUS_C13H8O7
+Feature_418,286.9587848,0.5690867,0,,Feature_418_SIRIUS_C11H4O7
+Feature_4930,289.0350151,1.5544102,0,,"Feature_4930_CMMC_Ellagic Acid_FBMN_2,3,7,8-tetrahydroxychromeno[5,4,3-cde]chromene-5,10-dione_SIRIUS_C14H8O7"
+Feature_53324,293.0296253,13.67247,0,,Feature_53324_CMMC_cinoxacin_FBMN_cinoxacin_SIRIUS_C13H8O8
+Feature_6152,293.0298188,2.0206664,0,,Feature_6152_CMMC_cantharidin_FBMN_DHZBEENLJMYSHQ-UHFFFAOYSA-N CollisionEnergy:102040_SIRIUS_C13H8O8
+Feature_3784,301.0369502,1.2435311,1,confirmed ellagic acid mass,Feature_3784_CMMC_Ellagic Acid_FBMN_cinoxacin_SIRIUS_C15H8O7
+Feature_7208,303.0135201,2.5722637,0,ellagic acid mass but not convinced otherwise,Feature_7208_FBMN_Lupeol_SIRIUS_C14H6O8
+Feature_8331,303.013838,3.0508938,1,confirmed ellagic acid mass and a few semi intense frags,Feature_8331_CMMC_Caffeic acid_FBMN_Quercitrin_SIRIUS_C14H6O8
+Feature_2689,303.0140175,0.8494838,1,confirmed ellagic acid mass and a few semi intense frags,"Feature_2689_CMMC_Ellagic Acid_FBMN_1,8-dihydroxy-3-methylanthra-9,10-quinone_SIRIUS_C14H9O9"
+Feature_4368,303.0140495,1.2423397,1,confirmed ellagic acid mass and a few semi intense frags,Feature_4368_CMMC_Ellagic Acid_FBMN_Spectral Match to Carboxyibuprofen from NIST14_SIRIUS_C14H6O8
+Feature_10728,303.0141428,3.9709437,1,confirmed ellagic acid mass and a few semi intense frags,Feature_10728_CMMC_Quercetin_FBMN_quercetin CollisionEnergy:102040_SIRIUS_C14H6O8
+Feature_6886,303.1056866,2.5327199,1,classic EA,Feature_6886_CMMC_Ellagic Acid_FBMN_NA
+Feature_6948,303.1418842,2.8358712,1,classic EA frags,Feature_6948_CMMC_Ellagic Acid_FBMN_Panaxynol_SIRIUS_C14H22O7
+Feature_6686,303.1420984,2.4289174,1,classic EA frags,"Feature_6686_CMMC_Ellagic Acid_FBMN_6,7-Dihydroxycoumarin;esculetin_SIRIUS_C14H22O7"
+Feature_12277,309.0246545,3.47933,0,,"Feature_12277_CMMC_Emodin_FBMN_1,3,8-trihydroxy-6-methylanthra-9,10-quinone_SIRIUS_C13H8O9"
+Feature_4399,317.0299237,1.1830237,0,like flav,Feature_4399_CMMC_Ellagic Acid_FBMN_MoNA:667436 HEPTENOPHOS_SIRIUS_C15H8O8
+Feature_5207,321.0246739,1.5496923,1,looks more like a ellagic acid,Feature_5207_CMMC_Gallic acid_FBMN_Spectral Match to Gallic acid from NIST14_SIRIUS_C14H8O9
+Feature_10044,321.0247185,3.2878408,1,looks more like a ellagic acid,Feature_10044_CMMC_Gallic acid_FBMN_Gallic_acid_SIRIUS_C14H8O9
+Feature_12317,321.0247586,3.7614684,1,looks more like a ellagic acid,Feature_12317_CMMC_Gallic acid_FBMN_Gallic_acid_SIRIUS_C14H8O9
+Feature_6143,321.0247824,1.9195802,1,looks more like a ellagic acid,Feature_6143_CMMC_Gallic acid_FBMN_Spectral Match to Gallic acid from NIST14_SIRIUS_C14H8O9
+Feature_7466,321.0248207,2.8934727,1,looks more like a ellagic acid,Feature_7466_CMMC_Gallic acid_FBMN_Pedunculagin_SIRIUS_C14H8O9
+Feature_4473,321.0248661,0.9011091,1,looks more like a ellagic acid,Feature_4473_CMMC_Gallic acid_FBMN_Gallic_acid_SIRIUS_C14H8O9
+Feature_4344,326.051639,1.3739653,0,,Feature_4344_SIRIUS_C13H8O9
+Feature_1929,335.0396135,0.7070123,0,,Feature_1929_SIRIUS_C15H10O9
+Feature_10453,345.0247429,3.4270072,0,,Feature_10453_CMMC_Quinolinic acid_FBMN_Massbank:FIO00678 Quinolinic acid_SIRIUS_C16H8O9
+Feature_3809,345.0249928,1.094131,0,Likely a flav,Feature_3809_CMMC_Gallic acid_FBMN_3-cyclopropyl-1-ethyl-1H-pyrazole-5-carboxylic acid_SIRIUS_C16H8O9
+Feature_6091,345.025009,1.3274155,0,,Feature_6091_CMMC_Quinolinic acid_FBMN_Amfenac_SIRIUS_C16H8O9
+Feature_7121,345.0251555,2.5468712,0,,Feature_7121_CMMC_Quinolinic acid_FBMN_Amfenac_SIRIUS_C16H8O9
+Feature_5490,349.0196386,1.2957064,0,,Feature_5490_FBMN_87853-70-1_SIRIUS_C15H11O11
+Feature_13473,427.0303103,3.8912346,0,,Feature_13473_SIRIUS_C20H10O11
+Feature_2427,427.0306528,1.3908406,0,weird frags,Feature_2427_CMMC_Ellagic Acid_FBMN_cinoxacin CollisionEnergy:102040_SIRIUS_C20H10O11
+Feature_3405,437.0720549,1.1641384,0,,Feature_3405_FBMN_Aviprin_SIRIUS_C19H16O12
+Feature_9702,437.0722088,3.2513905,0,,Feature_9702_FBMN_CHEBI:182999_SIRIUS_C19H18O13
+Feature_2829,447.0565165,0.91461074,1,"small mass, but three diagnostic frags",Feature_2829_FBMN_Pedunculagin_SIRIUS_C20H17O13
+Feature_11314,453.0096166,3.830453,0,,Feature_11314_SIRIUS_C21H8O12
+Feature_9444,453.0098739,3.2214231,0,,Feature_9444_FBMN_cinoxacin CollisionEnergy:205060_SIRIUS_C21H8O12
+Feature_7002,453.0100518,2.90729,0,,"Feature_7002_CMMC_Xanthurenic acid_FBMN_1,4-DPCA ethyl ester_SIRIUS_C21H8O12"
+Feature_2997,453.0100558,1.4027728,0,,Feature_2997_SIRIUS_C21H8O12
+Feature_9299,455.0827771,3.3224626,0,,"Feature_9299_CMMC_quercetin 3-O-glucoside_FBMN_4-hydroxy-5-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-1H-benzo[f][2]benzofuran-3-one_SIRIUS_C19H18O13"
+Feature_8498,465.0671697,3.5458047,0,,"Feature_8498_CMMC_2,4-dimethyl-benzoic-acid_D(+)-galactose_FBMN_Pedunculagin_SIRIUS_C20H16O13"
+Feature_8332,465.0672052,3.0537643,0,,Feature_8332_CMMC_3-Phenyllactic acid_FBMN_Pedunculagin_SIRIUS_C20H16O13
+Feature_1751,465.0672328,0.88673425,0,,"Feature_1751_CMMC_2,4-dimethyl-benzoic-acid_D(+)-galactose_FBMN_Pedunculagin_SIRIUS_C20H18O14"
+Feature_6255,465.0672337,1.8206909,0,,Feature_6255_CMMC_esculin_FBMN_Pedunculagin_SIRIUS_C20H16O13
+Feature_4535,465.0672986,1.2880937,0,,Feature_4535_FBMN_Bisdemethoxycurcumin CollisionEnergy:205060_SIRIUS_C20H18O14
+Feature_12166,471.0202445,3.7395222,0,,Feature_12166_SIRIUS_C21H10O13
+Feature_1933,483.0776025,0.8791801,1,"small mass, but three diagnostic frags",Feature_1933_FBMN_Pedunculagin_SIRIUS_C20H18O14
+Feature_9983,483.0776151,3.1387866,1,"small mass, but three diagnostic frags",Feature_9983_SIRIUS_C20H18O14
+Feature_6589,483.0778429,1.8058022,1,"small mass, but three diagnostic frags",Feature_6589_FBMN_Pedunculagin_SIRIUS_C20H18O14
+Feature_5015,483.0778459,1.454073,1,"small mass, but three diagnostic frags, some flav frags",Feature_5015_FBMN_Pedunculagin_SIRIUS_C20H18O14
+Feature_7616,488.0469866,2.889826,0,"no 303, but supporting secondary fragments",Feature_7616_SIRIUS_C21H10O13
+Feature_12229,488.0470452,3.743434,1,"this is a small mass, but has many hhdp fragments and a weak 303-- possibly a precursor to ellagitannin",Feature_12229_SIRIUS_C21H10O13
+Feature_1746,500.1044133,0.8822891,1,"303 ellagic acid is present, small overall mass by 100",Feature_1746_FBMN_Pedunculagin_SIRIUS_C20H18O14
+Feature_1850,514.0836027,0.9854353,0,not sure what this is but its small mass and has no diagnostic frags,Feature_1850_SIRIUS_C20H16O15
+Feature_4266,615.0618779,1.1736953,0,more likely an phenolic glycoside,Feature_4266_SIRIUS_C27H22O19
+Feature_11963,650.099971,3.4643035,1,"weak 303, with 427,453,471 mass and 287 frag, decent mass, kind of long rt tbh",Feature_11963_SIRIUS_C27H20O18
+Feature_8403,650.100174,3.0514777,0,"no 303, but supporting secondary fragments",Feature_8403_SIRIUS_C27H20O18
+Feature_7021,650.1002202,2.5345557,0,"no 303, but supporting secondary fragments","Feature_7021_FBMN_[(2E,6E)-1-Oxo-8-hydroxy-2,6-dimethylocta-2,6-dien-1-yl]beta-D-glucopyranoside_SIRIUS_C27H20O18"
+Feature_3314,711.1159519,1.119278,1,"no 303, but supporting secondary fragments",Feature_3314_SIRIUS_C33H26O18
+Feature_12354,767.0726672,3.7869353,1,"great mass, 303, 277, 259",Feature_12354_FBMN_Pedunculagin_SIRIUS_C34H22O21
+Feature_7174,767.0734195,2.6085923,1,"great mass, 303, 277, 259",Feature_7174_FBMN_Pedunculagin_SIRIUS_C34H22O21
+Feature_4127,785.0839818,1.1254895,1,"303,277,259",Feature_4127_SIRIUS_C34H24O22
+Feature_5542,785.0841838,1.95772,1,strong pedunculagin,Feature_5542_FBMN_Pedunculagin_SIRIUS_C34H24O22
+Feature_7118,785.0846031,2.447463,1,strong pedunculagin,Feature_7118_FBMN_Pedunculagin_SIRIUS_C34H24O22
+Feature_1873,802.1099224,0.88922375,1,"lots of noise, strong 259/277/303 peaks- likely ellagitannin related - 345 peak is a bit strange could be an HHDP unit + ion",Feature_1873_SIRIUS_C36H24F3N3O14
+Feature_3807,802.1108263,1.25488,1,"lots of noise, strong 259/277/303 peaks- likely ellagitannin related - 345 peak is a bit strange could be an HHDP unit + ion",Feature_3807_SIRIUS_C35H23N5O18
+Feature_3454,803.0992683,0.99995106,1,strong 259/277/303,Feature_3454_SIRIUS_C34H26O23
+Feature_9910,807.0653949,3.0881636,0,"Lots of strong frags, I do not know what this is. 3min elution time",Feature_9910_SIRIUS_C34H24O22
+Feature_6269,807.0658512,1.9977336,0,"Lots of strong frags, I do not know what this is. 2min elution time",Feature_6269_SIRIUS_C34H24O22
+Feature_5969,816.0886066,2.1773186,1,strong 259/277/303,Feature_5969_FBMN_Pedunculagin_40EV_SIRIUS_C36H25N5O14S2
+Feature_6415,839.0884994,2.0184262,0,277/303 only,Feature_6415_SIRIUS_C35H28O23
+Feature_7053,845.1169764,2.0132575,1,"cleaner than 3807, similar specs",Feature_7053_FBMN_Pedunculagin_SIRIUS_C40H28O21
+Feature_5390,863.1259728,1.6648272,1,"big mass, 259/277/303 peaks",Feature_5390_SIRIUS_C40H30O22
+Feature_6383,863.1269921,2.2195764,1,"big mass, 259/277/303 peaks",Feature_6383_SIRIUS_C40H30O22
+Feature_7090,863.127494,2.6248014,0,277/303 only,Feature_7090_SIRIUS_C40H30O22
+Feature_8503,869.0359886,3.0769517,0,not sure what this is but its big mass and has no diagnostic frags,Feature_8503_SIRIUS_C35H26O24
+Feature_7047,869.036458,2.3820775,0,not sure what this is but its big mass and has no diagnostic frags,Feature_7047_SIRIUS_C42H22O19
+Feature_8684,953.0967183,3.1398504,1,"No strong ellagic acid signature, but frags are present -- hhdp fragments are present though. ",Feature_8684_SIRIUS_C41H28O27
+Feature_12299,958.060501,3.839443,0,"weak 303, long retention time, strong HHDP frags, no strong frags within 250-280",Feature_12299_SIRIUS_C42H25IN2O16
+Feature_3702,964.16269,1.0666019,0,likely a flavanoid- stronger flav polymers than ellag frag,Feature_3702_SIRIUS_C48H29N5O18
+Feature_10460,970.1168285,3.1309261,1,"despite larger retention time than desired, strong ellag and hhdp frags",Feature_10460_SIRIUS_C42H32IN7O13
+Feature_7689,1002.109739,2.9984093,1,"big guy, strong ellag frag and decent hhdp frags",Feature_7689_SIRIUS_C47H27N3O23
+Feature_7886,1002.138169,2.90182,1,"big guy, strong ellag frag and decent hhdp frags",Feature_7886_SIRIUS_C49H31NO23
+Feature_9415,1013.120407,3.0962672,1,"big guy, strong ellag frag and decent hhdp frags",Feature_9415_SIRIUS_C47H32O26
+Feature_6631,1013.12239,2.1557944,1,"big guy, strong ellag frag and decent hhdp frags",Feature_6631_SIRIUS_C47H32O26
+Feature_5437,1013.123004,1.5441935,1,"big guy, decent ellag frag and strong hhdp frags",Feature_5437_SIRIUS_C47H32O26

@@ -1,0 +1,91 @@
+Diaryl_Feat_Num,Keep_hypothesized_firstreactions,Description
+Feature_6554,1,Dimeric with one split down to heptanoid fragment
+Feature_12423,1,"Monomeric, heptanoid backbone cleavage"
+Feature_12661,1,"Glycoslated, many aromatic fragments and big heptanoid peak (279)"
+Feature_12781,1,"Monomeric, very clean and intense aromatic/benz fragments"
+Feature_14371,0,"Strange 303 peak that isnt the ms1-- likely a conjugate or glucuronide of some kind. Library says ""quercetin 3-O-glucuronide"""
+Feature_14416,0,"High mass, could be glycosylated but no loss of 162"
+Feature_14478,0,"High mass, could be glycosylated but no loss of 162"
+Feature_14493,1,"high mass, could be glycosylated, I see a 162.9, multiple frags tho"
+Feature_14735,0,"High mass, Many matching fragmentation peaks. Honestly might be multiple ions such as a diarylheptanoid and something else. "
+Feature_14788,1,"Well within the glycosated mass range, has a big 163, 149,123 peak but no heptanoid backbone"
+Feature_14964,0,Im not sure what this is-- no key signatures of diary frags or heptane backbone frags
+Feature_15166,1,"high intensity 107 peak, along with 163, mass and rt seem good. No heptanoid backbone frag."
+Feature_15268,1,"Strong aromatic frags, good mass, weak heptane backbone frag"
+Feature_15314,1,"OK small mass at 297, two immediate high intensity peaks (107 and 133)"
+Feature_15382,1,"Good mass, two aromatic frags, some low intensity heptanoid frags and annotated as Hirsutanonol"
+Feature_15403,1,simple Diaryl; annotated as Knemolic acid C
+Feature_15452,1,"Weird annotation calling id Enterodiol, but mass and aromatic frags and Heptanoid frag makes me think the spectral match is less trustworthy."
+Feature_15467,1,"Classic glycosylated diarylheptanoid, loss. Of 163 and diaryl fragments some smaller heptane backbone frags."
+Feature_15470,1,Many aromatic fragments and a clean 313 peak (possible single diaryl compound)
+Feature_15492,1,Many aromatic fragments and a clean 313 peak (possible single diaryl compound)
+Feature_15504,1,Many aromatic fragments and a clean heptane frag
+Feature_15600,1,"Good aromatic frags, but no 163 loss, could be another glycolated form"
+Feature_15685,1,Good glycolated diaryl
+Feature_15862,1,"large 123 peak, one decent 197, mass is high 512. "
+Feature_15958,0,Good aromatic frags but weird 303 peak
+Feature_16027,1,"317 mass is a little weird, one intense 107 peak smaller aromatic peaks"
+Feature_16330,1,"Rubranoside A annotation, one strong aromatic and heptane peak, smaller frags throughout. "
+Feature_16448,1,No notes diaryl
+Feature_16541,1,Split into two aromatic flags
+Feature_16578,1,"Many noisy fragments in this ms2 but a handful of clean aromatic peaks. A 211 peak but some strong high 200 peaks that are weird, could be dimer 307, 325"
+Feature_16581,1,"Could be a dimer that’s fragmenting, I see strong ish 327, the 137 peak is messing me up. Keep for now"
+Feature_16601,0,Weird comound with almost no fragmentation to diagnosis
+Feature_16613,1,"possible diaryl, aroms and small backbone frags, maybe glycosylated w 466"
+Feature_16616,1,"looks like a monomer to me, with 107, 133, and 149, 191"
+Feature_16634,1,"Strong dimer, some weak aromatic frags"
+Feature_16739,1,"small monomer ms1 match to 339, a few aroms "
+Feature_16768,1,"monomer mas range with strong 163, some decent smnall int backbones"
+Feature_16771,1,"Strong dimer ms1, two large aromatic frags"
+Feature_16782,1,"good mass, many aromatic framenst"
+Feature_16865,1,"327 mass, many aromatic frags, "
+Feature_16897,1,"Near perfect aromatic fragmentation, god mass, one heptanoid backbone frag with h2"
+Feature_16958,0,"big 499, very weak ms2"
+Feature_17030,1,"329 mass, many aromatic frags"
+Feature_17257,1,"large mass, some aromatic frag, heptanoid. "
+Feature_17430,1,"strong 307 and 325 peak, several aromatic frags"
+Feature_17652,1,"Big frags that look monomeric 327, 345 and weak arom frags. A lot of noise"
+Feature_17662,0,"Glycosylated with weird 281 peak, but has strong aromatic frags"
+Feature_17684,1,"Strong aeromatics and a heptane backbone frag, 313 peak"
+Feature_17723,0,"small ish mass (299), only aromatic fragments, "
+Feature_17755,1,"aromatic frags and diagnostic backbone present, mass is suggesting glycosylated"
+Feature_17818,0,"two backbone frags for a small mass at 293, no arom frags"
+Feature_17855,0,"big mass, weird fragments, not enough diagnostic ones"
+Feature_18109,1,"Dimeric with 327 and 345, aromatic frags prominent, small heptane peaks"
+Feature_18161,0,"Large mass, 2 single arom frags"
+Feature_18171,1,"Really big dimer, decent common aromatics, minor heptane backbones, not many large ions at big intensities"
+Feature_18189,1,"Dimer, with half ion unit at 329, several strong aromatic frags, a few weak backbone frags"
+Feature_18203,1,glycosylated type with mass minus a hexose frag present before fragmenting into a single backbone and many arom frags
+Feature_18422,1,"dimeric, strong aromatic backbones and monomer fragments, mass is large"
+Feature_18477,1,"monomer, many aromatic fragments, no heptanoid backbone"
+Feature_18484,0,"moomer mass, strange 74 peak, and strange cluster of monomeric masses"
+Feature_18504,1,"small mass, but aromatic frags are intense with weak single heptanoid backbone cleavage"
+Feature_18520,1,"monomer mass, beautiful aromatic ring cleavage, no strong backbone signal but that’s ok. "
+Feature_18526,1,"looks like a small monomer plus a h2 mass, and heptanoid cleavage -- ideal ms2 for a simple linear diaryl"
+Feature_18815,1,"dimer, with deceent aromatic and strong backbone frags- half ion mass at 329"
+Feature_18910,0,"mass is very large, no half ion unit, weak aromatic frag and a intense peak at 131"
+Feature_18928,1,"monomer mass at 329, with many strong aromatic frags"
+Feature_18994,0,some strange moderate peaks and one arom frag. 
+Feature_19023,1,super small mass and only one big arom frag at low mass
+Feature_19123,0,weird mass and ion fragments
+Feature_19392,1,"big mass, grat arom frags, and heptane backbone"
+Feature_19631,1,"327 mass, a few aromatic frags"
+Feature_19738,0,small mass and many big (relative) intense fragments
+Feature_19745,0,massive mass no half ion and strange peaks in 240-260 range. 131 100% peak
+Feature_19934,1,"aromatic frags and diagnostic backbone present, half ion mass"
+Feature_20468,1,"monomeric mass, one prevalent arom frag and several small ones including heptane backbone"
+Feature_20573,1,"dimeric mass, one half ion mass present, many arom frags and a few heptane frags"
+Feature_21235,1,monomeric mass with strong arom fragments and a large potential heptane backbone frag
+Feature_21423,0,"monomeric mass, large retention time though, no strong arom fragments and a lot of others"
+Feature_22020,0,"Mass to rt time is a little off, many noise, much fragment, dominated by arom frags, backbone frags, and a lot of other ions"
+Feature_22228,1,super small mass and only one big arom frag at low mass
+Feature_22365,0,"I think this may be another PSM similar to diaryl, but there are clusters of fragments peaks and the most intense is not diagnostic masses"
+Feature_22496,0,strange larger frags - weak aromatics when present
+Feature_22564,0,"mass is right 307, but retention time is big ish for the range, strange more iintense peaks"
+Feature_23145,0,diarylheptanoid like phenol or flav
+Feature_24301,0,small mass and two heptanoid backbone frags but no strong aromatic frags 
+Feature_25997,0,diarylheptanoid like phenol or flav
+Feature_26031,0,"mass is right 307, but retention time is big ish for the range, strange more iintense peaks"
+Feature_28695,0,"I think this may be another PSM similar to diaryl, but there are clusters of fragments peaks and the most intense is not diagnostic masses"
+Feature_30271,0,"a lot of noise, small aromattic frags, intense frags 247-279"
+Feature_30666,0,fragments are present but they are weaker than many other fragments. 
